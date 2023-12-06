@@ -25,5 +25,14 @@ public class AssignmentOperators {
         int c = 10;
         c = c * 10;
         c *= 10; // compound assignment
+
+
+        // assign multiple variables
+        int x, y, z;
+        x = y = z = 100; // set x, y, and z to 100
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(z);
+
     }
 }
