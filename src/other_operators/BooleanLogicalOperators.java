@@ -47,7 +47,14 @@ public class BooleanLogicalOperators {
 //        System.out.println(1 / 2 == 2 && 1 / 0 == 1);
 //        System.out.println(1 / 2 == 2 & 1 / 0 == 1);
 //
-        System.out.println(2 / 2 == 1 || 1 / 0 == 1);
-        System.out.println(2 / 2 == 2 | 1 / 0 == 1);
+//        System.out.println(2 / 2 == 1 || 1 / 0 == 1);
+//        System.out.println(2 / 2 == 2 | 1 / 0 == 1);
     }
 }
+
+
+
+
+
+
+
