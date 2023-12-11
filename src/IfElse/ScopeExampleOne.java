@@ -6,6 +6,11 @@ public class ScopeExampleOne {
 
         {
             int b = 20;
+            {
+                {
+
+                }
+            }
         }
 
         System.out.println(a);
