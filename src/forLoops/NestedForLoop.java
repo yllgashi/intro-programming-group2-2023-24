@@ -11,18 +11,31 @@ public class NestedForLoop {
 //        }
 
 
-
         // Example two
         int rows = 5;
         int columns = 4;
 
-        for(int row = 1; row <= rows; row++){
+        for (int row = 1; row <= rows; row++) {
 
-            for(int col = 1; col <= columns; col++) {
+            for (int col = 1; col <= columns; col++) {
                 System.out.print(col);
             }
 
             // System.out.println();
+        }
+
+
+        //
+        // 10 rreshta
+        for (int i = 1; i <= 10; i++) {
+
+            // 10 kolona
+            for (int j = 1; j <= 10; j++) {
+
+            }
+
+            // rresht i ri
+            System.out.println();
         }
     }
 }
